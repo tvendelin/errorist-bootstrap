@@ -1,0 +1,3 @@
+[submodule "themes/errorist"]
+	path = themes/errorist
+	url = git@github.com:tvendelin/errorist.git
