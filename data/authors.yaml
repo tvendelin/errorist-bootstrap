@@ -15,21 +15,20 @@
 #
 # homepage: is the primary external URL of an author
 #
-#authors:
-#    tatkins:
-#        name: 'Tommy Atkins'
-#    mmustermann:
-#        name: 'Max Mustermann'
-#        image: /img/mustermann.jpg
-#        homepage: http://example.com/dipl-ingeneur-informatiker/mmustermann
-#        social:
-#        - name: LinkedIn
-#          url: http://example.com/mmustermann
-#        - name: Xing
-#          url: http://example.net/mmustermann
-#    vpupkin:
-#        name: 'Vassily Pupkin'
-#        image: https://gravatar.com/avatar?d=mp&s=200
-#        homepage: http://example.com/vpupkin
-#    mysterious:
+#tatkins:
+#    name: 'Tommy Atkins'
+#mmustermann:
+#    name: 'Max Mustermann'
+#    image: /img/mustermann.jpg
+#    homepage: http://example.com/dipl-ingeneur-informatiker/mmustermann
+#    social:
+#    - name: LinkedIn
+#      url: http://example.com/mmustermann
+#    - name: Xing
+#      url: http://example.net/mmustermann
+#vpupkin:
+#    name: 'Vassily Pupkin'
+#    image: https://gravatar.com/avatar?d=mp&s=200
+#    homepage: http://example.com/vpupkin
+#mysterious:
 
